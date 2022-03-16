@@ -412,7 +412,6 @@ body {
   display: flex;
   align-items: flex-end;
   font-size: 1.875rem;
-  line-height: 0.75;
   transition: opacity 0.3s ease 0s;
 }
 
