@@ -1,2 +1,2 @@
-# KnifesGallery
-Cleared and builded version
+# Knifes-Gallery
+Cleared, Builded and work version.
